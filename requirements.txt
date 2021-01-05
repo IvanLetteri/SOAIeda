@@ -1,3 +1,5 @@
 textblob
 Flask
 pywedge
+pandas-profiling
+
